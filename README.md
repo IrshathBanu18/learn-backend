@@ -1,7 +1,8 @@
 # To create dummy api
 
+first step node js install it
+
 ```
-nvm use
-npm i
-npm start
+npm init -y 
+
 ```
